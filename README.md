@@ -1,3 +1,6 @@
+![White Minimalist Profile LinkedIn Banner](https://user-images.githubusercontent.com/91872149/216820637-12be7b0b-7890-4dee-9f18-dcae69be7ea1.png)
+
+
 # _Javascript Course_ 
 
 ## _Table Of Content_
