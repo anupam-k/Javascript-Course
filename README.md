@@ -1,5 +1,4 @@
-![White Minimalist Profile LinkedIn Banner](https://user-images.githubusercontent.com/91872149/216820637-12be7b0b-7890-4dee-9f18-dcae69be7ea1.png)
-
+![Javascript-Course](https://socialify.git.ci/anupam-k/Javascript-Course/image?description=1&descriptionEditable=This%20Repository%20contains%20the%20notes%20for%20the%20JavaScript%20Course%20On%20YouTube%20-%20By%20Hitesh%20Choudhary&font=Raleway&language=1&name=1&pattern=Plus&theme=Dark)
 
 # _Javascript Course_ 
 
