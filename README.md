@@ -22,7 +22,7 @@
 | <b>13</b> | <b>_Basics of functions_</b> | <b>_[Link](https://github.com/anupam-k/Javascript-Course/blob/main/13.%20Basics%20of%20functions%20in%20JavaScript.md)_</b> |
 | <b>14</b> | <b>_Functions in variable, Useer Role in JS_</b> | <b>_[Link](https://github.com/anupam-k/Javascript-Course/blob/main/14.%20Function%20in%20variable%20%7C%20User%20Role%20in%20Javascript.md)_</b> |
 | <b>15</b> | <b>_Understand the context_</b> | <b>_[Link](https://github.com/anupam-k/Javascript-Course/blob/main/15.%20Understand%20the%20context%20in%20javascript.md)_</b> |
-| <b>16</b> | <b>_Code hoisting in javascript_</b> | <b>_[Link]()_</b> |
-| <b>17</b> | <b>_Scope chaining in javascript_</b> | <b>_[Link]()_</b> |
-| <b>18</b> | <b>_Light intro to THIS in javascript_</b> | <b>_[Link]()_</b> |
-| <b>19</b> | <b>_Introduction to Array in javascript_</b> | <b>_[Link]()_</b> |
+| <b>16</b> | <b>_Code hoisting in javascript_</b> | <b>_[Link](https://github.com/anupam-k/Javascript-Course/blob/main/16.%20Code%20hoisting%20in%20javascript.md)_</b> |
+| <b>17</b> | <b>_Scope chaining in javascript_</b> | <b>_[Link](https://github.com/anupam-k/Javascript-Course/blob/main/17.%20Scope%20Chaining%20in%20JavaScript.md)_</b> |
+| <b>18</b> | <b>_Light intro to THIS in javascript_</b> | <b>_[Link](https://github.com/anupam-k/Javascript-Course/blob/main/18.%20Light%20intro%20to%20THIS%20in%20JavaScript.md)_</b> |
+| <b>19</b> | <b>_Introduction to Array in javascript_</b> | <b>_[Link](https://github.com/anupam-k/Javascript-Course/blob/main/19.%20%20Introduction%20to%20Array%20in%20JavaScript.md)_</b> |
