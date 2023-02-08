@@ -30,7 +30,7 @@
 | <b>19</b> | <b>_Introduction to Array in javascript_</b> |
 | <b>20</b> | <b>_Callback and arrow function introduction in array_</b> |
 
-## _JavaScript Course (12 to 30)_
+## _JavaScript Course (21 to 30)_
 | _<b>Sr. No.</b>_ | _<b>Topics</b>_ |
 | :-- | :-- |
 | <b>21</b> | <b>_Fill and Filter in Array in JavaScript_</b> |
@@ -38,3 +38,8 @@
 | <b>23</b> | <b>_Objects in JavaScript_</b> |
 | <b>24</b> | <b>_Methods and objects in JavaScript_</b> |
 | <b>25</b> | <b>_For loop basics in JavaScript_</b> |
+| <b>26</b> | <b>_While and do while loops in JavSscript_</b> |
+| <b>27</b> | <b>_For each loop in JavaScript_</b> |
+| <b>28</b> | <b>_For in and For of in JavaScript_<b> |
+| <b>29</b> | <b>_Confusing Part of THIS in JavaScript_</b> |
+| <b>30</b> | <b>_What is DOM_<b> |
